@@ -1,0 +1,27 @@
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:07:17.425018
+Number of epoch:  1
+Test Loss:  4.535512447357178
+Test Accuracy:  0.02500000037252903
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:02:15.736942
+Number of epoch:  1
+Test Loss:  4.320681571960449
+Test Accuracy:  0.05694444477558136
+=========================
+Model name:  ResNet50
+Fitting duration:  0:04:13.877375
+Number of epoch:  1
+Test Loss:  4.607578754425049
+Test Accuracy:  0.009722222574055195
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:01:49.581420
+Number of epoch:  1
+Test Loss:  4.163657188415527
+Test Accuracy:  0.08541666716337204
+=========================

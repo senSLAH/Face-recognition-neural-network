@@ -1,0 +1,365 @@
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:00:18.021114
+Number of epoch:  1
+Test Loss:  1.341494083404541
+Test Accuracy:  0.4027777910232544
+=========================
+Fitting duration:  0:00:36.627185
+Number of epoch:  2
+Test Loss:  0.5965444445610046
+Test Accuracy:  0.875
+=========================
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:00:18.598556
+Number of epoch:  1
+Test Loss:  0.988632321357727
+Test Accuracy:  0.6527777910232544
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:00:08.075499
+Number of epoch:  1
+Test Loss:  0.37494078278541565
+Test Accuracy:  0.9444444179534912
+=========================
+Model name:  ResNet50
+Fitting duration:  0:00:11.647671
+Number of epoch:  1
+Test Loss:  1.6125880479812622
+Test Accuracy:  0.2083333283662796
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:00:07.847280
+Number of epoch:  1
+Test Loss:  0.18716174364089966
+Test Accuracy:  0.9305555820465088
+=========================
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:07:17.425018
+Number of epoch:  1
+Test Loss:  4.535512447357178
+Test Accuracy:  0.02500000037252903
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:02:15.736942
+Number of epoch:  1
+Test Loss:  4.320681571960449
+Test Accuracy:  0.05694444477558136
+=========================
+Model name:  ResNet50
+Fitting duration:  0:04:13.877375
+Number of epoch:  1
+Test Loss:  4.607578754425049
+Test Accuracy:  0.009722222574055195
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:01:49.581420
+Number of epoch:  1
+Test Loss:  4.163657188415527
+Test Accuracy:  0.08541666716337204
+=========================1. Check number of "epoch" needed for good presition
+test_size:  0.9
+=========================
+Model name:  VGG16
+Fitting duration:  0:04:02.357207
+Number of epoch:  5
+Test Loss:  4.55450439453125
+Test Accuracy:  0.023456789553165436
+=========================
+Model name:  InceptionV3
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:04:27.201799
+Number of epoch:  5
+Test Loss:  0.5331487059593201
+Test Accuracy:  0.8680555820465088
+=========================
+Model name:  InceptionV3
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:10:45.764429
+Number of epoch:  5
+Test Loss:  1.0316100120544434
+Test Accuracy:  0.7048611044883728
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:02:46.568686
+Number of epoch:  5
+Test Loss:  1.3831446170806885
+Test Accuracy:  0.6354166865348816
+=========================
+Model name:  ResNet50
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:21:12.882010
+Number of epoch:  5
+Test Loss:  1.8706934452056885
+Test Accuracy:  0.49861112236976624
+=========================
+Model name:  InceptionV3
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  MobileNetV2
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:44:52.870411
+Number of epoch:  10
+Test Loss:  1.543328046798706
+Test Accuracy:  0.5958333611488342
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:11:04.397275
+Number of epoch:  10
+Test Loss:  1.6196566820144653
+Test Accuracy:  0.6277777552604675
+=========================
+Model name:  ResNet50
+Fitting duration:  0:19:46.561294
+Number of epoch:  10
+Test Loss:  3.9117727279663086
+Test Accuracy:  0.02083333395421505
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:07:29.076882
+Number of epoch:  10
+Test Loss:  1.3347184658050537
+Test Accuracy:  0.6875
+=========================
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:34:36.534213
+Number of epoch:  9
+Test Loss:  1.6375287771224976
+Test Accuracy:  0.5680555701255798
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:10:02.554457
+Number of epoch:  9
+Test Loss:  1.7873295545578003
+Test Accuracy:  0.5902777910232544
+=========================
+Model name:  ResNet50
+Fitting duration:  0:17:56.945426
+Number of epoch:  9
+Test Loss:  3.912065267562866
+Test Accuracy:  0.01944444514811039
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:16:25.209755
+Number of epoch:  9
+Test Loss:  1.4179569482803345
+Test Accuracy:  0.6722221970558167
+=========================
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:30:16.403332
+Number of epoch:  8
+Test Loss:  1.270827293395996
+Test Accuracy:  0.6541666388511658
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:09:51.994998
+Number of epoch:  8
+Test Loss:  1.5739991664886475
+Test Accuracy:  0.6097221970558167
+=========================
+Model name:  ResNet50
+Fitting duration:  0:13:47.954387
+Number of epoch:  8
+Test Loss:  3.9120497703552246
+Test Accuracy:  0.01944444514811039
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:06:15.482027
+Number of epoch:  8
+Test Loss:  1.4260941743850708
+Test Accuracy:  0.6819444298744202
+=========================
+1. Check number of "epoch" needed for good presition
+test_size:  0.2
+=========================
+Model name:  VGG16
+Fitting duration:  0:26:13.767591
+Number of epoch:  7
+Test Loss:  1.8255407810211182
+Test Accuracy:  0.5347222089767456
+=========================
+Fitting duration:  0:25:49.702143
+Number of epoch:  6
+Test Loss:  1.8333367109298706
+Test Accuracy:  0.49861112236976624
+=========================
+Fitting duration:  0:48:41.750679
+Number of epoch:  5
+Test Loss:  1.9855914115905762
+Test Accuracy:  0.4833333194255829
+=========================
+Fitting duration:  0:13:09.018254
+Number of epoch:  4
+Test Loss:  2.3528826236724854
+Test Accuracy:  0.3722222149372101
+=========================
+Fitting duration:  0:10:32.683714
+Number of epoch:  3
+Test Loss:  2.9400346279144287
+Test Accuracy:  0.2430555522441864
+=========================
+Fitting duration:  0:07:14.216641
+Number of epoch:  2
+Test Loss:  3.1599650382995605
+Test Accuracy:  0.17638888955116272
+=========================
+Fitting duration:  0:03:35.515504
+Number of epoch:  1
+Test Loss:  3.7009403705596924
+Test Accuracy:  0.0555555559694767
+=========================
+Model name:  InceptionV3
+Fitting duration:  0:06:39.246357
+Number of epoch:  7
+Test Loss:  1.5397496223449707
+Test Accuracy:  0.6069444417953491
+=========================
+Fitting duration:  0:05:45.173354
+Number of epoch:  6
+Test Loss:  1.8127880096435547
+Test Accuracy:  0.5249999761581421
+=========================
+Fitting duration:  0:04:51.181011
+Number of epoch:  5
+Test Loss:  1.8407528400421143
+Test Accuracy:  0.5222222208976746
+=========================
+Fitting duration:  0:03:40.499097
+Number of epoch:  4
+Test Loss:  2.1129870414733887
+Test Accuracy:  0.46666666865348816
+=========================
+Fitting duration:  0:02:52.313937
+Number of epoch:  3
+Test Loss:  2.165118932723999
+Test Accuracy:  0.47361111640930176
+=========================
+Fitting duration:  0:01:50.819121
+Number of epoch:  2
+Test Loss:  2.698235511779785
+Test Accuracy:  0.31805557012557983
+=========================
+Fitting duration:  0:00:56.753715
+Number of epoch:  1
+Test Loss:  3.4717886447906494
+Test Accuracy:  0.0972222238779068
+=========================
+Model name:  ResNet50
+Fitting duration:  0:11:44.597348
+Number of epoch:  7
+Test Loss:  3.9129245281219482
+Test Accuracy:  0.01944444514811039
+=========================
+Fitting duration:  0:10:10.661604
+Number of epoch:  6
+Test Loss:  3.9123799800872803
+Test Accuracy:  0.01944444514811039
+=========================
+Fitting duration:  0:08:29.888126
+Number of epoch:  5
+Test Loss:  3.9120330810546875
+Test Accuracy:  0.01944444514811039
+=========================
+Fitting duration:  0:06:43.296276
+Number of epoch:  4
+Test Loss:  3.9140377044677734
+Test Accuracy:  0.01944444514811039
+=========================
+Fitting duration:  0:05:06.420129
+Number of epoch:  3
+Test Loss:  3.912116050720215
+Test Accuracy:  0.01944444514811039
+=========================
+Fitting duration:  0:03:26.913439
+Number of epoch:  2
+Test Loss:  3.913703680038452
+Test Accuracy:  0.01944444514811039
+=========================
+Fitting duration:  0:01:49.591805
+Number of epoch:  1
+Test Loss:  3.917090892791748
+Test Accuracy:  0.01805555634200573
+=========================
+Model name:  MobileNetV2
+Fitting duration:  0:04:37.158321
+Number of epoch:  7
+Test Loss:  1.1721574068069458
+Test Accuracy:  0.7277777791023254
+=========================
+Fitting duration:  0:04:00.237955
+Number of epoch:  6
+Test Loss:  1.6821775436401367
+Test Accuracy:  0.6208333373069763
+=========================
+Fitting duration:  0:03:23.843621
+Number of epoch:  5
+Test Loss:  1.4697225093841553
+Test Accuracy:  0.644444465637207
+=========================
+Fitting duration:  0:02:41.094739
+Number of epoch:  4
+Test Loss:  1.6018259525299072
+Test Accuracy:  0.6000000238418579
+=========================
+Fitting duration:  0:02:01.597585
+Number of epoch:  3
+Test Loss:  1.613654613494873
+Test Accuracy:  0.5902777910232544
+=========================
+Fitting duration:  0:01:22.446716
+Number of epoch:  2
+Test Loss:  2.223280429840088
+Test Accuracy:  0.4416666626930237
+=========================
+Fitting duration:  0:00:42.885224
+Number of epoch:  1
+Test Loss:  3.0034372806549072
+Test Accuracy:  0.25833332538604736
+=========================
